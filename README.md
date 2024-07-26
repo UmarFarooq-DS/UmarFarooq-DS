@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Advanced Machine Learning Algorithms, Yolo**
 
-- 📝 I regularly write articles on [https://medium.com/@cleverumarfarooq](https://medium.com/@cleverumarfarooq)
-
 - 💬 Ask me about **Machine Learning Algorithms, Pytorch, Selenium, Tensorflow, Opencv, Pandas, Numpy, Matplotlib**
 
 - 📫 How to reach me **umarfarooq.coder@gmail.com**
