@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umarfarooq-ds" alt="umarfarooq-ds" /></a> </p>
 
-- 🔭 I’m currently working on [YouTube News Headline Summarizer](https://github.com/UmarFarooq-DS/Youtube_Headline_Summarizer)
-
 - 🌱 I’m currently learning **Advanced Machine Learning Algorithms, Yolo**
 
 - 💬 Ask me about **Machine Learning Algorithms, Pytorch, Selenium, Tensorflow, Opencv, Pandas, Numpy, Matplotlib**
